@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Petit projet pour le test fait avec JS React mais pas de connexion à une base de données.
+
+Installer les modules à l'aide d'une commande "npm init" dans la ligne des commandes sur Visual Studio Code
 
 ## Available Scripts
 
