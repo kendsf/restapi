@@ -1,6 +1,6 @@
 Petit projet pour le test fait avec JS React mais pas de connexion à une base de données.
 
-Installer les modules à l'aide d'une commande "npm init" dans la ligne des commandes sur Visual Studio Code
+Installer les modules complémentaire à l'aide d'une commande "npm install" dans le Terminal sur Visual Studio Code, puis lancer avec "npm start"
 
 ## Available Scripts
 
